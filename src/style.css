@@ -1,0 +1,15 @@
+.PlayerView{
+  border: 5px solid pink;
+  height: 100px;
+}
+
+.PlayerInput{
+  border: 5px solid pink;
+  height: 40px;
+}
+
+.GameView{
+  border: 5px solid pink;
+  width: 600px;
+  margin: auto;
+}
